@@ -5,7 +5,7 @@ import ResultView from "./components/ResultView";
 function App() {
   return (
     <div className="App">
-      <h1>Leaf Health Assessment ner 🌿</h1>
+      <h1>Leaf Health Assessment ner my first one 🌿</h1>
       <UploadPanel />
       <ResultView />
     </div>
